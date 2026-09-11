@@ -1,0 +1,9 @@
+[package]
+name = "thesis-rust-server"
+version = "0.1.0"
+edition = "2021"
+description = "A small educational HTTP/1.1 and FastCGI server"
+license = "MIT"
+
+[dependencies]
+

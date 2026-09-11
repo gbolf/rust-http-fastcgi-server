@@ -1,0 +1,4 @@
+Pozdrav iz statičke datoteke!
+
+Ovaj sadržaj Rust poslužitelj čita iz web-korijena.
+PHP se ne izvršava pri obradi ovog zahtjeva.
